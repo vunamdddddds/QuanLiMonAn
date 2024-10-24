@@ -1,0 +1,33 @@
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe.config
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\bin\Debug\QuanLyMonAn.pdb
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form1.resources
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.Properties.Resources.resources
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.exe
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.pdb
+C:\Users\OS\source\repos\QuanLyMonAn\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form2.resources
+C:\Users\namvu\Desktop\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe.config
+C:\Users\namvu\Desktop\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe
+C:\Users\namvu\Desktop\QuanLyMonAn\bin\Debug\QuanLyMonAn.pdb
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.AssemblyReference.cache
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form2.resources
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.Properties.Resources.resources
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.GenerateResource.cache
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.CoreCompileInputs.cache
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.exe
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.pdb
+C:\Users\namvu\Desktop\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form3.resources
+D:\c# dữ liệu\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe.config
+D:\c# dữ liệu\QuanLyMonAn\bin\Debug\QuanLyMonAn.exe
+D:\c# dữ liệu\QuanLyMonAn\bin\Debug\QuanLyMonAn.pdb
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.AssemblyReference.cache
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form2.resources
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.Form3.resources
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.Properties.Resources.resources
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.GenerateResource.cache
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.csproj.CoreCompileInputs.cache
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.exe
+D:\c# dữ liệu\QuanLyMonAn\obj\Debug\QuanLyMonAn.pdb
